@@ -2,6 +2,7 @@
 Open rotating mechanical fault data set
 ## 1.旋转机械故障诊断公开数据集整理
 众所周知，当下做机械故障诊断研究最基础的就是数据，再先进的方法也离不开数据的检验。笔者通过文献资料收集到如下几个比较常用的数据集并进行整理。鉴于目前尚未见比较全面的数据集整理介绍。数据来自原始研究方，笔者只整理数据获取途径。如果研究中使用了数据集，请按照版权方要求作出相应说明和引用。在此，公开研究数据的研究者表示感谢和致敬。如涉及侵权，请联系我删除（787452269@qq.com）。欢迎相关领域同仁一起交流。很多优秀的论文都有数据分享，本项目保持更新。星标是比较通用的数据集。个别数据集下载可能比较困难，需要的可以邮件联系我，如版权方有要求，述不提供。
+注：给索要数据的朋友，希望是真的试过了无法获取再来索要。伸手党确实不受欢迎。另外，也欢迎修改提供公开的新数据源。
 ## 2.☆CWRU（凯斯西储大学轴承数据中心）
  
 * 数据下载连接（https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website）
@@ -61,13 +62,17 @@ The data are collected in sequence, the first 104 samples are healthy, 105th ~20
 * github连接：https://github.com/cathysiyu/Mechanical-datasets
 由东南大学严如强团队博士生邵思雨完成[12]。“Highly Accurate Machine Fault Diagnosis Using Deep Transfer Learning”
 Gearbox dataset is from Southeast University, China. These data are collected from Drivetrain Dynamic Simulator. This dataset contains 2 subdatasets, including bearing data and gear data, which are both acquired on Drivetrain Dynamics Simulator (DDS). There are two kinds of working conditions with rotating speed - load configuration set to be 20-0 and 30-2. Within each file, there are 8rows of signals which represent: 1-motor vibration, 2,3,4-vibration of planetary gearbox in three directions: x, y, and z, 5-motor torque, 6,7,8-vibration of parallel gear box in three directions: x, y, and z. Signals of rows 2,3,4 are all effective.
-## Acoustics and Vibration Database（振动与声学数据库）
+## 10.Acoustics and Vibration Database（振动与声学数据库）
 提供一个手机振动故障数据集的公益性网站链接：http://data-acoustics.com/
-## 10.机械设备故障诊断数据集及技术资料大全
+## 11.机械设备故障诊断数据集及技术资料大全
 有比较多的机械设备故障数据资料：https://mekhub.cn/machine-diagnosis
-## 11.CoE Datasets美国宇航局预测数据存储库
+## 12.CoE Datasets美国宇航局预测数据存储库
 * 链接：https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
 [藻类跑道数据集] [CFRP复合材料数据集] [铣削数据集] [轴承数据集] [电池数据集] [涡轮风扇发动机退化模拟数据集] [PHM08挑战数据集] [IGBT加速老化Sata集] [投石机]数据集] [FEMTO轴承数据组] [随机电池使用数据组] [电容器电应力数据组] [MOSFET热过载时效数据组] [电容器电应力数据组 -  2] [HIRF电池数据组]
+
+## 13.第三届工业大数据创新竞赛
+  需要参赛才能下载数据，数据使用需要获得版权方授权。多台压缩机，汽轮机的转子部件脱落数据。很实用。
+  [工业大数据创新平台]（http://industrial-bigdata.com/competition/competitionAction!showDetail2019.action?competition.competitionId=5）
 
 
 
