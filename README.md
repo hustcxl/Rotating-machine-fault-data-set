@@ -26,8 +26,8 @@ Open rotating mechanical fault data set
 * [数据集详情](./doc/FEMTO_ST.md)
 
 ## 6.☆美国辛辛那提大学IMS
-由美国辛辛那提大学李杰教授团队分享。
-[数据集详情](./doc/IMS.md)
+由美国辛辛那提大学李杰教授团队分享。  
+* [数据集详情](./doc/IMS.md)
 
 ## 7.University of Connecticut
 * 数据链接：https://figshare.com/articles/Gear_Fault_Data/6127874/1
@@ -79,22 +79,3 @@ Gearbox dataset is from Southeast University, China. These data are collected fr
  在都灵理工大学机械和航空航天工程系 DIRG实验室设置的钻机收集的数据，专门用于测试高速航空轴承，其加速度采集在可变转速，径向载荷和损伤水平，与温度测量一起，可作为开放存取数据提供。
  * 数据链接:(ftp://ftp.polito.it/people/DIRG_BearingData/)
  * 论文链接:[The Politecnico di Torino rolling bearing test rig: Description and analysis of open access data](https://www.sciencedirect.com/science/article/pii/S0888327018306800?via%3Dihub)
- 
- 
-
-
-## 参考文献
-* [1]mith W A, Randall R B. Rolling element bearing diagnostics using the Case Western Reserve University data: A benchmark study[J]. Mechanical Systems and Signal Processing, 2015,64-65:100-131.
-* [2]rstraete D, Ferrada A, Droguett E L, et al. Deep learning enabled fault diagnosis using time-frequency image analysis of rolling element bearings[J]. Shock and Vibration, 2017,2017.
-* [3]	Bin Hasan M. Current based condition monitoring of electromechanical systems. Model-free drive system current monitoring: faults detection and diagnosis through statistical features extraction and support vector machines classification.[D]. University of Bradford, 2013.
-* [4]	Lessmeier C, Kimotho J K, Zimmer D, et al. Condition monitoring of bearing damage in electromechanical drive systems by using motor current signals of electric motors: a benchmark data set for data-driven classification: Proceedings of the European conference of the prognostics and health management society, 2016[C].
-* [5]	Porotsky S, Bluvband Z. Remaining useful life estimation for systems with non-trendability behaviour: Prognostics & Health Management, 2012[C].
-* [6]	Nectoux P, Gouriveau R, Medjaher K, et al. PRONOSTIA: An experimental platform for bearings accelerated degradation tests.: IEEE International Conference on Prognostics and Health Management, PHM'12., 2012[C]. IEEE Catalog Number: CPF12PHM-CDR.
-* [7]	E. S, H. O, A. S S V, et al. Estimation of remaining useful life of ball bearings using data driven methodologies: 2012 IEEE Conference on Prognostics and Health Management, 2012[C].2012
-18-21 June 2012.
-* [8]	Gousseau W, Antoni J, Girardin F, et al. Analysis of the Rolling Element Bearing data set of the Center for Intelligent Maintenance Systems of the University of Cincinnati: CM2016, 2016[C].
-* [9]	Qiu H, Lee J, Lin J, et al. Wavelet filter-based weak signature detection method and its application on rolling element bearing prognostics[J]. Journal of Sound and Vibration, 2006,289(4):1066-1090.
-* [10]	P. C, S. Z, J. T. Preprocessing-Free Gear Fault Diagnosis Using Small Datasets With Deep Convolutional Neural Network-Based Transfer Learning[J]. IEEE Access, 2018,6:26241-26253.
-* [11]	B. W, Y. L, N. L, et al. A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings[J]. IEEE Transactions on Reliability, 2018:1-12.
-* [12]	S. S, S. M, R. Y, et al. Highly Accurate Machine Fault Diagnosis Using Deep Transfer Learning[J]. IEEE Transactions on Industrial Informatics, 2019,15(4):2446-2455.
-
