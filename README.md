@@ -1,24 +1,21 @@
 # Rotating-machine-fault-data-set
 Open rotating mechanical fault data set
 ## 1.简介
-众所周知，当下做机械故障诊断研究最基础的就是数据，再先进的方法也离不开数据的检验。笔者通过文献资料收集到如下几个比较常用的数据集并进行整理。鉴于目前尚未见比较全面的数据集整理介绍。数据来自原始研究方，笔者只整理数据获取途径。如果研究中使用了数据集，请按照版权方要求作出相应说明和引用。在此，公开研究数据的研究者表示感谢和致敬。如涉及侵权，请联系我删除（787452269@qq.com）。欢迎相关领域同仁一起交流。很多优秀的论文都有数据分享，本项目保持更新。星标是比较通用的数据集。个别数据集下载可能比较困难，需要的可以邮件联系我，如版权方有要求，述不提供。
+  众所周知，当下做机械故障诊断研究最基础的就是数据，再先进的方法也离不开数据的检验。笔者通过文献资料收集到如下几个比较常用的数据集并进行整理。鉴于目前尚未见比较全面的数据集整理介绍。数据来自原始研究方，笔者只整理数据获取途径。如果研究中使用了数据集，请按照版权方要求作出相应说明和引用。在此，公开研究数据的研究者表示感谢和致敬。如涉及侵权，请联系我删除（787452269@qq.com）。欢迎相关领域同仁一起交流。很多优秀的论文都有数据分享，本项目保持更新。星标是比较通用的数据集。个别数据集下载可能比较困难，需要的可以邮件联系我，如版权方有要求，述不提供。
 
 
 注：给索要数据的朋友，希望是真的试过了无法获取再来索要。伸手党确实不受欢迎。另外，也欢迎修改提供公开的新数据源。
 
 
-## 2.☆CWRU（凯斯西储大学轴承数据中心）
- [数据集详情](./doc/CWRU.md)
+## 2.☆CWRU（美国凯斯西储大学轴承数据中心）
+   由美国凯斯西储大学完成试验，是当前轴承振动信号处理，故障诊断方面论文使用最为广泛的标准数据集。故障特征明显，可参考的文献资料多。可以作为方法的基础检验数据集。GitHub上也有很多以该数据集为例子的项目，值得借鉴学习。后续会逐渐对该数据集的使用情况进行总结综述。欢迎提供素材。  
+ 
+ * [数据集详情](./doc/CWRU.md)
 	
 ## 3.☆MFPT（机械故障预防技术学会）
-NRG Systems总工程师Eric Bechhoefer博士代表MFPT组装和准备数据。
-* 数据链接：（https://mfpt.org/fault-data-sets/）
-* 声学和振动数据库链接（http://data-acoustics.com/measurements/bearing-faults/bearing-2/）
-* MATLAB 文档关于MFPT轴承数据的故障诊断举例。
-连接（https://ww2.mathworks.cn/help/predmaint/examples/Rolling-Element-Bearing-Fault-Diagnosis.html）
-使用该数据集的相比于CWRU少一些。2012年更新。
-一些对数据描述的论文[2]。
-* Lee D, Siu V, Cruz R, et al. Convolutional neural net and bearing fault analysis[C]//Proceedings of the International Conference on Data Mining (DMIN). The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp), 2016: 194.
+  由美国机械故障预防技术学会提供，NRG Systems总工程师Eric Bechhoefer博士代表MFPT组装和准备数据，已提供轴承故障数据集以促进轴承分析的研究。该数据集包括来自轴承试验台的数据（标称轴承数据，各种载荷下的外圈故障，内圈故障和各种载荷），以及三个真实故障。  
+  
+* [数据集详情](./doc/MFPT.md)
 
 ## 4.☆德国Paderborn大学
 * 链接：https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/
