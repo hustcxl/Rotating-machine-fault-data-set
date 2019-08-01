@@ -14,20 +14,38 @@ CWRU数据集是使用最为广泛的，文献较多。不一一举例。其中U
 ## 2.试验条件
 
 ## 3.数据使用情况
+选了一些发表在优秀刊物上比较有代表性的论文。当前尚且按照入手的角度不同从基准综述研究，信号处理与特征增强以及分类与模式识别三个方向分类。但是很多论文实际上是相互交叉的。
 ### 基准研究
 * Smith W A, Randall R B. Rolling element bearing diagnostics using the Case Western Reserve University data: A benchmark study[J]. Mechanical Systems and Signal Processing, 2015,64-65:100-131.[论文链接](https://www.sciencedirect.com/science/article/pii/S0888327015002034)
 * Boudiaf A, Moussaoui A, Dahane A, et al. A comparative study of various methods of bearing faults diagnosis using the case Western Reserve University data[J]. Journal of Failure Analysis and Prevention, 2016, 16(2): 271-284. [论文链接](https://link.springer.com/article/10.1007/s11668-016-0080-7)
 ### 信号处理与特征工程
- * Su W, Wang F, Zhu H, et al. Rolling element bearing faults diagnosis based on optimal Morlet wavelet filter and autocorrelation enhancement[J]. Mechanical systems and signal processing, 2010, 24(5): 1458-1472.[论文链接](https://www.sciencedirect.com/science/article/pii/S0888327009003835)
- * Saidi L, Ali J B, Fnaiech F. Bi-spectrum based-EMD applied to the non-stationary vibration signals for bearing faults diagnosis[J]. ISA transactions, 2014, 53(5): 1650-1660.[论文链接](https://www.sciencedirect.com/science/article/pii/S0019057814001220)
- * Zhu K, Song X, Xue D. A roller bearing fault diagnosis method based on hierarchical entropy and support vector machine with particle swarm optimization algorithm[J]. Measurement, 2014, 47: 669-675.[论文链接](https://www.sciencedirect.com/science/article/pii/S0263224113004569)
- * Li Y, Wang X, Si S, et al. Entropy based fault classification using the Case Western Reserve University data: A benchmark study[J]. IEEE Transactions on Reliability, 2019.[论文链接](https://ieeexplore.ieee.org/abstract/document/8662701)
- * Kedadouche M, Liu Z, Vu V H. A new approach based on OMA-empirical wavelet transforms for bearing fault diagnosis[J]. Measurement, 2016, 90: 292-308.[论文链接](https://www.sciencedirect.com/science/article/pii/S0263224116301361)
+
+ * Su W, Wang F, Zhu H, et al. Rolling element bearing faults diagnosis based on optimal Morlet wavelet filter and autocorrelation enhancement[J]. Mechanical systems and signal processing, 2010, 24(5): 1458-1472.[论文链接](https://www.sciencedirect.com/science/article/pii/S0888327009003835)  
+ 基于最优小波滤波和自相关增强的滚动轴承故障诊断方法
+ 
+ * Saidi L, Ali J B, Fnaiech F. Bi-spectrum based-EMD applied to the non-stationary vibration signals for bearing faults diagnosis[J]. ISA transactions, 2014, 53(5): 1650-1660.[论文链接](https://www.sciencedirect.com/science/article/pii/S0019057814001220)  
+ 基于双谱的emd应用于非平稳振动信号的轴承故障诊断  
+ 
+ * Zhu K, Song X, Xue D. A roller bearing fault diagnosis method based on hierarchical entropy and support vector machine with particle swarm optimization algorithm[J]. Measurement, 2014, 47: 669-675.[论文链接](https://www.sciencedirect.com/science/article/pii/S0263224113004569)  
+ 提出了一种基于层次熵和支持向量机的滚动轴承故障诊断方法
+ 
+ * Li Y, Wang X, Si S, et al. Entropy based fault classification using the Case Western Reserve University data: A benchmark study[J]. IEEE Transactions on Reliability, 2019.[论文链接](https://ieeexplore.ieee.org/abstract/document/8662701)  
+ 基于熵的故障分类利用西储大学案例数据:一项基准研究  
+ 
+ * Kedadouche M, Liu Z, Vu V H. A new approach based on OMA-empirical wavelet transforms for bearing fault diagnosis[J]. Measurement, 2016, 90: 292-308.[论文链接](https://www.sciencedirect.com/science/article/pii/S0263224116301361)  
+ 提出了一种基于经验小波变换的轴承故障诊断方法 
+ 
  
 ### 分类与识别
-* Raj A S, Murali N. Early classification of bearing faults using morphological operators and fuzzy inference[J]. IEEE Transactions on Industrial Electronics, 2012, 60(2): 567-574.[论文链接](https://ieeexplore.ieee.org/abstract/document/6153367)
-* Afrasiabi S, Afrasiabi M, Parang B, et al. Real-Time Bearing Fault Diagnosis of Induction Motors with Accelerated Deep Learning Approach[C]//2019 10th International Power Electronics, Drive Systems and Technologies Conference (PEDSTC). IEEE, 2019: 155-159.[论文链接](https://ieeexplore.ieee.org/abstract/document/8697244)
-* Zhang R, Tao H, Wu L, et al. Transfer learning with neural networks for bearing fault diagnosis in changing working conditions[J]. IEEE Access, 2017, 5: 14347-14357.[论文链接](https://ieeexplore.ieee.org/abstract/document/7961149)
+
+* Raj A S, Murali N. Early classification of bearing faults using morphological operators and fuzzy inference[J]. IEEE Transactions on Industrial Electronics, 2012, 60(2): 567-574.[论文链接](https://ieeexplore.ieee.org/abstract/document/6153367)  
+利用形态算子和模糊推理对轴承故障进行早期分类
+
+* Afrasiabi S, Afrasiabi M, Parang B, et al. Real-Time Bearing Fault Diagnosis of Induction Motors with Accelerated Deep Learning Approach[C]//2019 10th International Power Electronics, Drive Systems and Technologies Conference (PEDSTC). IEEE, 2019: 155-159.[论文链接](https://ieeexplore.ieee.org/abstract/document/8697244)  
+采用加速深度学习方法对异步电机轴承故障进行实时诊断 
+
+* Zhang R, Tao H, Wu L, et al. Transfer learning with neural networks for bearing fault diagnosis in changing working conditions[J]. IEEE Access, 2017, 5: 14347-14357.[论文链接](https://ieeexplore.ieee.org/abstract/document/7961149)  
+基于神经网络的轴承故障转移学习方法，用于轴承在不同工况下的故障诊断
 
 ## 3.数据特点
  人为制造的故障，特征明显，诊断相对容易。使用广泛，认可度高。可以作为算法检验的基础数据集。
