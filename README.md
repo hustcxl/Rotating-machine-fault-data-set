@@ -17,11 +17,10 @@ Open rotating mechanical fault data set
   
 * [数据集详情](./doc/MFPT.md)
 
-## 4.☆德国Paderborn大学
-* 链接：https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/
-* 相关说明及论文[3, 4]。
-* Bin Hasan M. Current based condition monitoring of electromechanical systems. Model-free drive system current monitoring: faults detection and diagnosis through statistical features extraction and support vector machines classification.[D]. University of Bradford, 2013.
-* Lessmeier C, Kimotho J K, Zimmer D, et al. Condition monitoring of bearing damage in electromechanical drive systems by using motor current signals of electric motors: a benchmark data set for data-driven classification: Proceedings of the European conference of the prognostics and health management society, 2016[C].
+## 4.☆德国帕德伯恩大学Paderborn
+  由德国帕德博恩大学 Christian Lessmeier等设计实验。
+* [数据集详情](./doc/Paderborn.md)
+
 ## 5.☆FEMTO-ST轴承数据集
 * 由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集[5-7]。
 * FEMTO-ST网站：https://www.femto-st.fr/en
