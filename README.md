@@ -22,8 +22,8 @@ Open rotating mechanical fault data set
 * [数据集详情](./doc/Paderborn.md)
 
 ## 5.☆FEMTO-ST轴承数据集
-* 由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。
-[数据集详情](./doc/FEMTO_ST.md)
+ 由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。
+* [数据集详情](./doc/FEMTO_ST.md)
 
 ## 6.☆辛辛那提IMS
 * 数据链接https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
