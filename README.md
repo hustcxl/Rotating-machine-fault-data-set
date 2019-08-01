@@ -7,29 +7,22 @@ Open rotating mechanical fault data set
 注：给索要数据的朋友，希望是真的试过了无法获取再来索要。伸手党确实不受欢迎。另外，也欢迎修改提供公开的新数据源。
 
 
-## 2.☆CWRU（美国凯斯西储大学轴承数据中心）
+## 2.[☆CWRU（美国凯斯西储大学轴承数据中心）](./doc/CWRU.md)
    由美国凯斯西储大学完成试验，是当前轴承振动信号处理，故障诊断方面论文使用最为广泛的标准数据集。故障特征明显，可参考的文献资料多。可以作为方法的基础检验数据集。GitHub上也有很多以该数据集为例子的项目，值得借鉴学习。后续会逐渐对该数据集的使用情况进行总结综述。欢迎提供素材。  
- 
- * [数据集详情](./doc/CWRU.md)
 	
-## 3.☆MFPT（机械故障预防技术学会）
+## 3.[☆MFPT（机械故障预防技术学会）](./doc/MFPT.md)
   由美国机械故障预防技术学会提供，NRG Systems总工程师Eric Bechhoefer博士代表MFPT组装和准备数据，已提供轴承故障数据集以促进轴承分析的研究。该数据集包括来自轴承试验台的数据（标称轴承数据，各种载荷下的外圈故障，内圈故障和各种载荷），以及三个真实故障。  
   
-* [数据集详情](./doc/MFPT.md)
-
-## 4.☆德国帕德伯恩大学Paderborn
+## 4.[☆德国帕德伯恩大学Paderborn](./doc/Paderborn.md)
   由德国帕德博恩大学 Christian Lessmeier等设计实验。
-* [数据集详情](./doc/Paderborn.md)
 
-## 5.☆FEMTO-ST轴承数据集
+## 5.[☆FEMTO-ST轴承数据集](./doc/FEMTO_ST.md)
  由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。
-* [数据集详情](./doc/FEMTO_ST.md)
 
-## 6.☆美国辛辛那提大学IMS
+## 6.[☆美国辛辛那提大学IMS](./doc/IMS.md)
 由美国辛辛那提大学李杰教授团队分享。  
-* [数据集详情](./doc/IMS.md)
 
-## 7.University of Connecticut
+## 7.美国康涅狄格大学University of Connecticut
 * 数据链接：https://figshare.com/articles/Gear_Fault_Data/6127874/1
 * 数据描述：
 Time domain gear fault vibration data (DataForClassification_TimeDomain)
@@ -38,7 +31,6 @@ Number of gear fault types=9={'healthy','missing','crack','spall','chip5a','chip
 Number of samples per type=104
 Number of total samples=9x104=903
 The data are collected in sequence, the first 104 samples are healthy, 105th ~208th samples are missing, and etc.
-* 相关论文[10]。
 * P. C, S. Z, J. T. Preprocessing-Free Gear Fault Diagnosis Using Small Datasets With Deep Convolutional Neural Network-Based Transfer Learning[J]. IEEE Access, 2018,6:26241-26253.
 
 ## 8.XJTU-SY Bearing Datasets（西安交通大学 轴承数据集）
@@ -50,7 +42,8 @@ The data are collected in sequence, the first 104 samples are healthy, 105th ~20
 ## 9.东南大学
 * github连接：https://github.com/cathysiyu/Mechanical-datasets
 由东南大学严如强团队博士生邵思雨完成[12]。“Highly Accurate Machine Fault Diagnosis Using Deep Transfer Learning”
-Gearbox dataset is from Southeast University, China. These data are collected from Drivetrain Dynamic Simulator. This dataset contains 2 subdatasets, including bearing data and gear data, which are both acquired on Drivetrain Dynamics Simulator (DDS). There are two kinds of working conditions with rotating speed - load configuration set to be 20-0 and 30-2. Within each file, there are 8rows of signals which represent: 1-motor vibration, 2,3,4-vibration of planetary gearbox in three directions: x, y, and z, 5-motor torque, 6,7,8-vibration of parallel gear box in three directions: x, y, and z. Signals of rows 2,3,4 are all effective.
+Gearbox dataset is from Southeast University, China. These data are collected from Drivetrain Dynamic Simulator. This dataset contains 2 subdatasets, including bearing data and gear data, which are both acquired on Drivetrain Dynamics Simulator (DDS). There are two kinds of working conditions with rotating speed - load configuration set to be 20-0 and 30-2. Within each file, there are 8rows of signals which represent: 1-motor vibration, 2,3,4-vibration of planetary gearbox in three directions: x, y, and z, 5-motor torque, 6,7,8-vibration of parallel gear box in three directions: x, y, and z. Signals of rows 2,3,4 are all effective. 
+
 ## 10.Acoustics and Vibration Database（振动与声学数据库）
 提供一个收集振动故障数据集的公益性网站链接：http://data-acoustics.com/
 
