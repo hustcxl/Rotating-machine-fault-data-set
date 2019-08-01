@@ -84,8 +84,15 @@ Gearbox dataset is from Southeast University, China. These data are collected fr
 
   * 论文链接：(https://www.sciencedirect.com/science/article/pii/S2352340918314124?via%3Dihub)
   * 数据链接：(https://data.mendeley.com/datasets/v43hmbwxpm/1)
-  * 已经发表的论文：(https://www.sciencedirect.com/science/article/pii/S0022460X17307678?via%3Dihub)
+  * 已经发表的论文：[Bearing fault diagnosis under unknown time-varying rotational speed conditions via multiple time-frequency curve extraction](https://www.sciencedirect.com/science/article/pii/S0022460X17307678?via%3Dihub)
   * [A method for tachometer-free and resampling-free bearing fault diagnostics under time-varying speed conditions](https://www.sciencedirect.com/science/article/pii/S026322411831011X)
+  
+ ## 15. 意大利都灵理工大学轴承数据DIRG_BearingData
+ 在都灵理工大学机械和航空航天工程系 DIRG实验室设置的钻机收集的数据，专门用于测试高速航空轴承，其加速度采集在可变转速，径向载荷和损伤水平，与温度测量一起，可作为开放存取数据提供。
+ * 数据链接:(ftp://ftp.polito.it/people/DIRG_BearingData/)
+ * 论文链接:[The Politecnico di Torino rolling bearing test rig: Description and analysis of open access data](https://www.sciencedirect.com/science/article/pii/S0888327018306800?via%3Dihub)
+ 
+ 
 
 
 ## 参考文献
