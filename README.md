@@ -22,22 +22,11 @@ Open rotating mechanical fault data set
 ## 6.[☆美国辛辛那提大学IMS](./doc/IMS.md)
 由美国辛辛那提大学李杰教授团队分享。  
 
-## 7.美国康涅狄格大学University of Connecticut
-* 数据链接：https://figshare.com/articles/Gear_Fault_Data/6127874/1
-* 数据描述：
-Time domain gear fault vibration data (DataForClassification_TimeDomain)
-And Gear fault data after angle-frequency domain synchronous analysis (DataForClassification_Stage0)
-Number of gear fault types=9={'healthy','missing','crack','spall','chip5a','chip4a','chip3a','chip2a','chip1a'}
-Number of samples per type=104
-Number of total samples=9x104=903
-The data are collected in sequence, the first 104 samples are healthy, 105th ~208th samples are missing, and etc.
-* P. C, S. Z, J. T. Preprocessing-Free Gear Fault Diagnosis Using Small Datasets With Deep Convolutional Neural Network-Based Transfer Learning[J]. IEEE Access, 2018,6:26241-26253.
+## 7.[美国康涅狄格大学University of Connecticut](./doc/Connecticut.md)
+ 由美国康涅狄格大学唐炯教授团队分享。
 
-## 8.XJTU-SY Bearing Datasets（西安交通大学 轴承数据集）
+## 8.[XJTU-SY Bearing Datasets（西安交通大学 轴承数据集）](./doc/XJTU_SY.md)
 由西安交通大学雷亚国课题组王彪博士整理。
-* 链接：http://biaowang.tech/xjtu-sy-bearing-datasets/
-* 使用数据集的论文[11]。
-* B. W, Y. L, N. L, et al. A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings[J]. IEEE Transactions on Reliability, 2018:1-12.  
 
 ## 9.东南大学
 * github连接：https://github.com/cathysiyu/Mechanical-datasets
