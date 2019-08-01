@@ -25,11 +25,9 @@ Open rotating mechanical fault data set
  由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。
 * [数据集详情](./doc/FEMTO_ST.md)
 
-## 6.☆辛辛那提IMS
-* 数据链接https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
-* 相关论文[8, 9]。
-* Gousseau W, Antoni J, Girardin F, et al. Analysis of the Rolling Element Bearing data set of the Center for Intelligent Maintenance Systems of the University of Cincinnati: CM2016, 2016[C].
-* Qiu H, Lee J, Lin J, et al. Wavelet filter-based weak signature detection method and its application on rolling element bearing prognostics[J]. Journal of Sound and Vibration, 2006,289(4):1066-1090.
+## 6.☆美国辛辛那提大学IMS
+由美国辛辛那提大学李杰教授团队分享。
+[数据集详情](./doc/IMS.md)
 
 ## 7.University of Connecticut
 * 数据链接：https://figshare.com/articles/Gear_Fault_Data/6127874/1
