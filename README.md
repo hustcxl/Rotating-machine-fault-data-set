@@ -28,7 +28,7 @@ Open rotating mechanical fault data set
 ## 8.[XJTU-SY Bearing Datasets（西安交通大学 轴承数据集）](./doc/XJTU_SY.md)
 由西安交通大学雷亚国课题组王彪博士整理。
 
-## 9.东南大学
+## 9.[东南大学齿轮箱数据集](./doc/SEU.md)
 * github连接：https://github.com/cathysiyu/Mechanical-datasets
 由东南大学严如强团队博士生邵思雨完成[12]。“Highly Accurate Machine Fault Diagnosis Using Deep Transfer Learning”
 Gearbox dataset is from Southeast University, China. These data are collected from Drivetrain Dynamic Simulator. This dataset contains 2 subdatasets, including bearing data and gear data, which are both acquired on Drivetrain Dynamics Simulator (DDS). There are two kinds of working conditions with rotating speed - load configuration set to be 20-0 and 30-2. Within each file, there are 8rows of signals which represent: 1-motor vibration, 2,3,4-vibration of planetary gearbox in three directions: x, y, and z, 5-motor torque, 6,7,8-vibration of parallel gear box in three directions: x, y, and z. Signals of rows 2,3,4 are all effective. 
