@@ -13,3 +13,5 @@ NRG Systems总工程师Eric Bechhoefer博士代表MFPT组装和准备数据。
 ## 3.使用情况
 * Lee D, Siu V, Cruz R, et al. Convolutional neural net and bearing fault analysis[C]//Proceedings of the International Conference on Data Mining (DMIN). The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp), 2016: 194.
 ## 4.数据特点
+
+[<<返回主目录](../README.md)
