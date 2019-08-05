@@ -4,7 +4,8 @@
 - [1.简介](#1.简介)
 - [2.美国凯斯西储大学轴承数据中心轴承数据集](#2.[☆CWRU（美国凯斯西储大学轴承数据中心）])
 - [3.MFPT（机械故障预防技术学会）](#3.[☆MFPT（机械故障预防技术学会）](./doc/MFPT.md))
-- [10.Acoustics and Vibration Database（振动与声学数据库）](#10.Acoustics and Vibration Database（振动与声学数据库）)
+- [Acoustics and Vibration Database（振动与声学数据库）](#10.Acoustics and Vibration Database（振动与声学数据库）)
+
 <!-- /TOC -->
 
 # Rotating-machine-fault-data-set  
