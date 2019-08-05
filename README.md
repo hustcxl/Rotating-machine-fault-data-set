@@ -21,15 +21,17 @@
 <!-- /TOC -->
 
 # Rotating-machine-fault-data-set  
+
 Open rotating mechanical fault data set
 ===
 
 ## 1.简介
   众所周知，当下做机械故障诊断研究最基础的就是数据，再先进的方法也离不开数据的检验。笔者通过文献资料收集到如下几个比较常用的数据集并进行整理。鉴于目前尚未见比较全面的数据集整理介绍。数据来自原始研究方，笔者只整理数据获取途径。如果研究中使用了数据集，请按照版权方要求作出相应说明和引用。在此，公开研究数据的研究者表示感谢和致敬。如涉及侵权，请联系我删除（787452269@qq.com）。欢迎相关领域同仁一起交流。很多优秀的论文都有数据分享，本项目保持更新。星标是比较通用的数据集。个别数据集下载可能比较困难，需要的可以邮件联系我，如版权方有要求，述不提供。
 
-
+```
 注：给索要数据的朋友，希望是真的试过了无法获取再来索要。伸手党确实不受欢迎。另外，也欢迎修改提供公开的新数据源。
 
+```
 
 ## 2.[☆CWRU（美国凯斯西储大学轴承数据中心）](./doc/CWRU.md)
    由美国凯斯西储大学完成试验，是当前轴承振动信号处理，故障诊断方面论文使用最为广泛的标准数据集。故障特征明显，可参考的文献资料多。可以作为方法的基础检验数据集。GitHub上也有很多以该数据集为例子的项目，值得借鉴学习。后续会逐渐对该数据集的使用情况进行总结综述。欢迎提供素材。  
@@ -54,8 +56,14 @@ Open rotating mechanical fault data set
 
 ## 9.[东南大学齿轮箱数据集](./doc/SEU.md)
 * github连接：https://github.com/cathysiyu/Mechanical-datasets
-由东南大学严如强团队博士生邵思雨完成[12]。“Highly Accurate Machine Fault Diagnosis Using Deep Transfer Learning”
-Gearbox dataset is from Southeast University, China. These data are collected from Drivetrain Dynamic Simulator. This dataset contains 2 subdatasets, including bearing data and gear data, which are both acquired on Drivetrain Dynamics Simulator (DDS). There are two kinds of working conditions with rotating speed - load configuration set to be 20-0 and 30-2. Within each file, there are 8rows of signals which represent: 1-motor vibration, 2,3,4-vibration of planetary gearbox in three directions: x, y, and z, 5-motor torque, 6,7,8-vibration of parallel gear box in three directions: x, y, and z. Signals of rows 2,3,4 are all effective. 
+由东南大学严如强团队博士生邵思雨完成。  
+论文：**“Highly Accurate Machine Fault Diagnosis Using Deep Transfer Learning”**  
+
+Gearbox dataset is from Southeast University, China.  
+These data are collected from Drivetrain Dynamic Simulator.   
+This dataset contains 2 subdatasets, including bearing data and gear data, which are both acquired on Drivetrain Dynamics Simulator (DDS).   
+There are two kinds of working conditions with rotating speed - load configuration set to be 20-0 and 30-2.   
+Within each file, there are 8rows of signals which represent: 1-motor vibration, 2,3,4-vibration of planetary gearbox in three directions: x, y, and z, 5-motor torque, 6,7,8-vibration of parallel gear box in three directions: x, y, and z. Signals of rows 2,3,4 are all effective. 
 
 ## 10.Acoustics and Vibration Database（振动与声学数据库）
 提供一个收集振动故障数据集的公益性网站链接：http://data-acoustics.com/
@@ -74,8 +82,20 @@ Gearbox dataset is from Southeast University, China. These data are collected fr
 
 ## 14.加拿大渥太华大学  
 该数据包含在时变转速条件下从不同健康状况的轴承收集的振动信号。总共有36个数据集。对于每个数据集，有两个实验设置：轴承健康状况和变化速度条件。  
-轴承的健康状况包括  （i）健康，  （ii）内圈缺陷有缺陷，以及  （iii）外圈缺陷有缺陷。  
-操作转速条件是  （i）增加速度，  （ii）减小速度，  （iii）增加然后减小速度，以及  （iv）减小然后增加速度。  因此，设置有12种不同的情况。为了确保数据的真实性，每个实验设置收集3个试验，总共产生36个数据集。  每个数据集包含两个通道：  'Channel_1' 是由加速度计测量的振动数据，  'Channel_2'是由编码器测量的转速数据。  所有这些数据都以200,000Hz采样，采样持续时间为10秒。
+轴承的健康状况包括:  
+（i）健康，  
+（ii）内圈缺陷有缺陷，以及   
+（iii）外圈缺陷有缺陷。  
+操作转速条件是:   
+（i）增加速度，  
+（ii）减小速度，  
+（iii）增加然后减小速度，以及  
+（iv）减小然后增加速度。  
+因此，设置有12种不同的情况。为了确保数据的真实性，每个实验设置收集3个试验，总共产生36个数据集。  
+每个数据集包含两个通道：   
+'Channel_1' 是由加速度计测量的振动数据，   
+'Channel_2'是由编码器测量的转速数据。  
+所有这些数据都以200,000Hz采样，采样持续时间为10秒。
 
   * 论文链接：(https://www.sciencedirect.com/science/article/pii/S2352340918314124?via%3Dihub)
   * 数据链接：(https://data.mendeley.com/datasets/v43hmbwxpm/1)
