@@ -66,15 +66,16 @@ Gearbox dataset is from Southeast University, China. These data are collected fr
 
 
 ## 12.CoE Datasets美国宇航局预测数据存储库
-* 链接：https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
-[藻类跑道数据集] [CFRP复合材料数据集] [铣削数据集] [轴承数据集] [电池数据集] [涡轮风扇发动机退化模拟数据集] [PHM08挑战数据集] [IGBT加速老化Sata集] [投石机]数据集] [FEMTO轴承数据组] [随机电池使用数据组] [电容器电应力数据组] [MOSFET热过载时效数据组] [电容器电应力数据组 -  2] [HIRF电池数据组]
+* 链接：https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/  
 
 ## 13.第三届工业大数据创新竞赛
   需要参赛才能下载数据，数据使用需要获得版权方授权。多台压缩机，汽轮机的转子部件脱落数据。很实用。
    [工业大数据创新平台](http://industrial-bigdata.com/competition/competitionAction!showDetail2019.action?competition.competitionId=5)
 
 ## 14.加拿大渥太华大学  
-该数据包含在时变转速条件下从不同健康状况的轴承收集的振动信号。总共有36个数据集。对于每个数据集，有两个实验设置：轴承健康状况和变化速度条件。轴承的健康状况包括（i）健康，（ii）内圈缺陷有缺陷，以及（iii）外圈缺陷有缺陷。操作转速条件是（i）增加速度，（ii）减小速度，（iii）增加然后减小速度，以及（iv）减小然后增加速度。因此，设置有12种不同的情况。为了确保数据的真实性，每个实验设置收集3个试验，总共产生36个数据集。每个数据集包含两个通道：'Channel_1' 是由加速度计测量的振动数据，'Channel_2'是由编码器测量的转速数据。所有这些数据都以200,000Hz采样，采样持续时间为10秒。
+该数据包含在时变转速条件下从不同健康状况的轴承收集的振动信号。总共有36个数据集。对于每个数据集，有两个实验设置：轴承健康状况和变化速度条件。  
+轴承的健康状况包括  （i）健康，  （ii）内圈缺陷有缺陷，以及  （iii）外圈缺陷有缺陷。  
+操作转速条件是  （i）增加速度，  （ii）减小速度，  （iii）增加然后减小速度，以及  （iv）减小然后增加速度。  因此，设置有12种不同的情况。为了确保数据的真实性，每个实验设置收集3个试验，总共产生36个数据集。  每个数据集包含两个通道：  'Channel_1' 是由加速度计测量的振动数据，  'Channel_2'是由编码器测量的转速数据。  所有这些数据都以200,000Hz采样，采样持续时间为10秒。
 
   * 论文链接：(https://www.sciencedirect.com/science/article/pii/S2352340918314124?via%3Dihub)
   * 数据链接：(https://data.mendeley.com/datasets/v43hmbwxpm/1)
