@@ -2,21 +2,21 @@
 <!-- TOC -->
 
 - [1.简介](#1简介)
-- [2.美国凯斯西储大学轴承数据中心轴承数据集](#2cwru美国凯斯西储大学轴承数据中心)
-- [3.MFPT（机械故障预防技术学会）](#3MFPT机械故障预防技术学会)
-- [4.德国帕德伯恩大学Paderborn轴承数据集](#4德国帕德伯恩大学Paderborn)
-- [5.FEMTO-ST轴承数据集](#5femto-st轴承数据集)
-- [6.美国辛辛那提大学IMS轴承数据集](#6美国辛辛那提大学ims)
-- [7.美国康涅狄格大学University of Connecticut轴承数据集](#7美国康涅狄格大学university-of-connecticut)
+- [2.美国凯斯西储大学轴承数据中心轴承数据集](#2美国-凯斯西储大学轴承数据中心cwru)
+- [3.MFPT（机械故障预防技术学会）](#3美国-机械故障预防技术学会mfpt)
+- [4.德国帕德伯恩大学Paderborn轴承数据集](#4德国-帕德伯恩大学paderborn)
+- [5.FEMTO-ST轴承数据集](#5法国-femto-st轴承数据集)
+- [6.美国辛辛那提大学IMS轴承数据集](#6美国-辛辛那提大学ims)
+- [7.美国康涅狄格大学University of Connecticut轴承数据集](#7美国-康涅狄格大学university-of-connecticut)
 - [8.XJTU-SY Bearing Datasets（西安交通大学 轴承数据集）](#8xjtu-sy-bearing-datasets西安交通大学-轴承数据集)
 - [9.东南大学齿轮箱数据集](#9东南大学齿轮箱数据集)
 - [10.Acoustics and Vibration Database（振动与声学数据库）](#10acoustics-and-vibration-database振动与声学数据库)
 - [11.机械设备故障诊断数据集及技术资料大全](#11机械设备故障诊断数据集及技术资料大全)
 - [12.CoE Datasets美国宇航局预测数据存储库](#12coe-datasets美国宇航局预测数据存储库)
 - [13.第三届工业大数据创新竞赛旋转机械数据集](#13第三届工业大数据创新竞赛)
-- [14.加拿大渥太华大学轴承数据集](#14加拿大渥太华大学)
-- [15. 意大利都灵理工大学轴承数据DIRG BearingData](#15-意大利都灵理工大学轴承数据dirg_bearingdata)
-- [16.巴西里约热内卢联邦大学 MAFAULDA轴承数据集](#16巴西里约热内卢联邦大学-mafaulda)
+- [14.加拿大渥太华大学轴承数据集](#14加拿大-渥太华大学)
+- [15. 意大利都灵理工大学轴承数据DIRG BearingData](#15-意大利-都灵理工大学轴承数据dirg_bearingdata)
+- [16.巴西里约热内卢联邦大学 MAFAULDA轴承数据集](#16巴西-里约热内卢联邦大学-mafaulda)
 
 <!-- /TOC -->
 
