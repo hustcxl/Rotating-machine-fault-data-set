@@ -53,13 +53,13 @@ Open rotating mechanical fault data set
   由德国帕德博恩大学 Christian Lessmeier,Enge-Rosenblatt, Bayer, & Zimmer, 于2014年设计完成实验。
 
 ## 5.[☆法国-FEMTO-ST轴承数据集](./doc/FEMTO_ST.md) 
-![](./images/fig002.png)
+![](./images/fig003.png)
 ![](./images/fig004.png)
 
  由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。
 
 ## 6.[☆美国-辛辛那提大学IMS](./doc/IMS.md)
-![](./images/fig005.png)
+![](./images/fig005.png)  
 由美国辛辛那提大学李杰教授团队分享。
 The  IMS bearing dataset has  been  collected  on  an  endurance  test  rig  of  the University  of  Cincinnati and  relased  in  2014.
 . The test  rig  has  the following characteristics:
@@ -69,12 +69,18 @@ The  IMS bearing dataset has  been  collected  on  an  endurance  test  rig  of 
 - PCB 253B33 High sensitivity Quart ICP accelerometers.
 
 ## 7.[美国-康涅狄格大学University of Connecticut](./doc/Connecticut.md)
- 由美国康涅狄格大学唐炯教授团队分享。
+![](./images/fig006.png)  
+
+ 由美国康涅狄格大学唐炯教授团队分享。齿轮箱故障数据。
 
 ## 8.[XJTU-SY Bearing Datasets（西安交通大学 轴承数据集）](./doc/XJTU_SY.md)
-由西安交通大学雷亚国课题组王彪博士整理。
+ ![](./images/fig007.png)  
+
+由西安交通大学雷亚国课题组王彪博士整理。为轴承寿命退化数据。
 
 ## 9.[东南大学齿轮箱数据集](./doc/SEU.md)
+ ![](./images/fig008.png)
+
 * github连接：https://github.com/cathysiyu/Mechanical-datasets
 由东南大学严如强团队博士生邵思雨完成。  
 论文：**“Highly Accurate Machine Fault Diagnosis Using Deep Transfer Learning”**  
@@ -97,10 +103,13 @@ Within each file, there are 8rows of signals which represent: 1-motor vibration,
 * 链接：https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/  
 
 ## 13.第三届工业大数据创新竞赛
-  需要参赛才能下载数据，数据使用需要获得版权方授权。多台压缩机，汽轮机的转子部件脱落数据。很实用。
+  需要参赛才能下载数据，数据使用需要获得版权方授权。多台压缩机，汽轮机的转子部件脱落数据。很实用。  
+比赛已经结束，无法下载。期待官方发布白皮书。获得授权可以分享数据。
    [工业大数据创新平台](http://industrial-bigdata.com/competition/competitionAction!showDetail2019.action?competition.competitionId=5)
 
-## 14.加拿大渥太华大学  
+## 14.加拿大-渥太华大学  
+ ![](./images/fig009.png)
+
 该数据包含在时变转速条件下从不同健康状况的轴承收集的振动信号。总共有36个数据集。对于每个数据集，有两个实验设置：轴承健康状况和变化速度条件。  
 轴承的健康状况包括:  
 （i）健康，  
@@ -122,12 +131,15 @@ Within each file, there are 8rows of signals which represent: 1-motor vibration,
   * 已经发表的论文：[Bearing fault diagnosis under unknown time-varying rotational speed conditions via multiple time-frequency curve extraction](https://www.sciencedirect.com/science/article/pii/S0022460X17307678?via%3Dihub)
   * [A method for tachometer-free and resampling-free bearing fault diagnostics under time-varying speed conditions](https://www.sciencedirect.com/science/article/pii/S026322411831011X)
   
- ## 15. 意大利都灵理工大学轴承数据DIRG_BearingData
+ ## 15. 意大利-都灵理工大学轴承数据DIRG_BearingData
+  ![](./images/fig010.png)
+
  在都灵理工大学机械和航空航天工程系 DIRG实验室设置的钻机收集的数据，专门用于测试高速航空轴承，其加速度采集在可变转速，径向载荷和损伤水平，与温度测量一起，可作为开放存取数据提供。
  * 数据链接:(ftp://ftp.polito.it/people/DIRG_BearingData/)
  * 论文链接:[The Politecnico di Torino rolling bearing test rig: Description and analysis of open access data](https://www.sciencedirect.com/science/article/pii/S0888327018306800?via%3Dihub)
  
- ## 16.巴西里约热内卢联邦大学 MAFAULDA
+ ## 16.巴西-里约热内卢联邦大学 MAFAULDA
+  ![](./images/fig011.png) ![](./images/fig012.png)   
  * 数据链接：(http://www02.smt.ufrj.br/~offshore/mfs/page_01.html)
  * Marins M A, Ribeiro F M L, Netto S L, et al. Improved similarity-based modeling for the classification of rotating-machine failures[J]. Journal of the Franklin Institute, 2018, 355(4): 1913-1930.[论文链接](https://www.sciencedirect.com/science/article/pii/S0016003217303678)
  * Saufi S R, bin Ahmad Z A, Leong M S, et al. Differential evolution optimization for resilient stacked sparse autoencoder and its applications on bearing fault diagnosis[J]. Measurement Science and Technology, 2018, 29(12): 125002. [论文链接](https://iopscience.iop.org/article/10.1088/1361-6501/aae5b2/meta)
