@@ -28,37 +28,47 @@ Open rotating mechanical fault data set
 ## 1.简介
   众所周知，当下做机械故障诊断研究最基础的就是数据，再先进的方法也离不开数据的检验。笔者通过文献资料收集到如下几个比较常用的数据集并进行整理。鉴于目前尚未见比较全面的数据集整理介绍。数据来自原始研究方，笔者只整理数据获取途径。如果研究中使用了数据集，请按照版权方要求作出相应说明和引用。在此，公开研究数据的研究者表示感谢和致敬。如涉及侵权，请联系我删除（787452269@qq.com）。
   欢迎相关领域同仁一起交流。很多优秀的论文都有数据分享，本项目保持更新。星标是比较通用的数据集。个别数据集下载可能比较困难，需要的可以邮件联系我，如版权方有要求，述不提供。
-关于数据使用的问题和心得，欢迎在'Issues'中提问讨论。也欢迎'fork,Watch,star'。
+关于数据使用的问题和心得，欢迎在·Issues·中提问讨论。也欢迎·fork,Watch,star'。
 
 ```
 注：给索要数据的朋友，希望是真的试过了无法获取再来索要。伸手党确实不受欢迎。另外，也欢迎修改提供公开的新数据源。
 
 ```
 
-## 2.[☆CWRU（美国凯斯西储大学轴承数据中心）](./doc/CWRU.md)
+## 2.[☆美国-凯斯西储大学轴承数据中心CWRU）](./doc/CWRU.md)
 ![](./images/fig3.jpeg)   
    由美国凯斯西储大学完成试验，是当前轴承振动信号处理，故障诊断方面论文使用最为广泛的标准数据集。故障特征明显，可参考的文献资料多。可以作为方法的基础检验数据集。GitHub上也有很多以该数据集为例子的项目，值得借鉴学习。后续会逐渐对该数据集的使用情况进行总结综述。欢迎提供素材。  
 	
-## 3.[☆MFPT（机械故障预防技术学会）](./doc/MFPT.md)
+## 3.[☆美国-机械故障预防技术学会MFPT](./doc/MFPT.md)
 ![](./images/fig01.jpg)  
   由美国机械故障预防技术学会提供，NRG Systems总工程师Eric Bechhoefer博士代表MFPT组装和准备数据，已提供轴承故障数据集以促进轴承分析的研究。
-  该数据集包括来自轴承试验台的数据（
+  该数据集包括来自轴承试验台的数据:
   - 正常轴承数据
-  - 各种载荷下的外圈故障
-  - 不同载荷下的内圈故障
-  - 以及三个真实故障案例  
+  - 不同载荷下的外圈故障数据
+  - 不同载荷下的内圈故障数据
+  - 以及三个真实故障案例数据  
   
-## 4.[☆德国帕德伯恩大学Paderborn](./doc/Paderborn.md)
-![](./images/fig002.jpg)
+## 4.[☆德国-帕德伯恩大学Paderborn](./doc/Paderborn.md)
+![](./images/fig002.png)  
   由德国帕德博恩大学 Christian Lessmeier,Enge-Rosenblatt, Bayer, & Zimmer, 于2014年设计完成实验。
 
-## 5.[☆FEMTO-ST轴承数据集](./doc/FEMTO_ST.md)
+## 5.[☆法国-FEMTO-ST轴承数据集](./doc/FEMTO_ST.md) 
+![](./images/fig002.png)
+![](./images/fig004.png)
+
  由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。
 
-## 6.[☆美国辛辛那提大学IMS](./doc/IMS.md)
-由美国辛辛那提大学李杰教授团队分享。  
+## 6.[☆美国-辛辛那提大学IMS](./doc/IMS.md)
+![](./images/fig005.png)
+由美国辛辛那提大学李杰教授团队分享。
+The  IMS bearing dataset has  been  collected  on  an  endurance  test  rig  of  the University  of  Cincinnati and  relased  in  2014.
+. The test  rig  has  the following characteristics:
+- 4 double row bearings of type Rexnord ZA-2115,
+- 2000 rpm stationary speed,
+- 6000 lbs load applied onto the shaft and bearing by a spring mechanism,
+- PCB 253B33 High sensitivity Quart ICP accelerometers.
 
-## 7.[美国康涅狄格大学University of Connecticut](./doc/Connecticut.md)
+## 7.[美国-康涅狄格大学University of Connecticut](./doc/Connecticut.md)
  由美国康涅狄格大学唐炯教授团队分享。
 
 ## 8.[XJTU-SY Bearing Datasets（西安交通大学 轴承数据集）](./doc/XJTU_SY.md)
