@@ -36,14 +36,21 @@ Open rotating mechanical fault data set
 ```
 
 ## 2.[☆CWRU（美国凯斯西储大学轴承数据中心）](./doc/CWRU.md)
-![](./images/fig3.jpeg)
+![](./images/fig3.jpeg)   
    由美国凯斯西储大学完成试验，是当前轴承振动信号处理，故障诊断方面论文使用最为广泛的标准数据集。故障特征明显，可参考的文献资料多。可以作为方法的基础检验数据集。GitHub上也有很多以该数据集为例子的项目，值得借鉴学习。后续会逐渐对该数据集的使用情况进行总结综述。欢迎提供素材。  
 	
 ## 3.[☆MFPT（机械故障预防技术学会）](./doc/MFPT.md)
-  由美国机械故障预防技术学会提供，NRG Systems总工程师Eric Bechhoefer博士代表MFPT组装和准备数据，已提供轴承故障数据集以促进轴承分析的研究。该数据集包括来自轴承试验台的数据（标称轴承数据，各种载荷下的外圈故障，内圈故障和各种载荷），以及三个真实故障。  
+![](./images/fig01.jpg)  
+  由美国机械故障预防技术学会提供，NRG Systems总工程师Eric Bechhoefer博士代表MFPT组装和准备数据，已提供轴承故障数据集以促进轴承分析的研究。
+  该数据集包括来自轴承试验台的数据（
+  - 正常轴承数据
+  - 各种载荷下的外圈故障
+  - 不同载荷下的内圈故障
+  - 以及三个真实故障案例  
   
 ## 4.[☆德国帕德伯恩大学Paderborn](./doc/Paderborn.md)
-  由德国帕德博恩大学 Christian Lessmeier等设计实验。
+![](./images/fig002.jpg)
+  由德国帕德博恩大学 Christian Lessmeier,Enge-Rosenblatt, Bayer, & Zimmer, 于2014年设计完成实验。
 
 ## 5.[☆FEMTO-ST轴承数据集](./doc/FEMTO_ST.md)
  由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。
