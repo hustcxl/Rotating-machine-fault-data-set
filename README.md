@@ -88,18 +88,25 @@ This dataset contains 2 subdatasets, including bearing data and gear data, which
 There are two kinds of working conditions with rotating speed - load configuration set to be 20-0 and 30-2.   
 Within each file, there are 8rows of signals which represent: 1-motor vibration, 2,3,4-vibration of planetary gearbox in three directions: x, y, and z, 5-motor torque, 6,7,8-vibration of parallel gear box in three directions: x, y, and z. Signals of rows 2,3,4 are all effective. 
 
-## 10.Acoustics and Vibration Database（振动与声学数据库）
+## 10.Acoustics and Vibration Database（振动与声学数据库） 
+![](./images/fig013.jpg)  
 提供一个收集振动故障数据集的公益性网站链接：http://data-acoustics.com/
 
 
 ## 11.机械设备故障诊断数据集及技术资料大全
+![](./images/fig014.png)  
+
 有比较多的机械设备故障数据资料：https://mekhub.cn/machine-diagnosis
 
 
 ## 12.CoE Datasets美国宇航局预测数据存储库
+![](./images/fig015.png)   
+
 * 链接：https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/  
 
 ## 13.第三届工业大数据创新竞赛
+![](./images/fig015.png)   
+
   需要参赛才能下载数据，数据使用需要获得版权方授权。多台压缩机，汽轮机的转子部件脱落数据。很实用。  
 比赛已经结束，无法下载。期待官方发布白皮书。获得授权可以分享数据。
    [工业大数据创新平台](http://industrial-bigdata.com/competition/competitionAction!showDetail2019.action?competition.competitionId=5)
