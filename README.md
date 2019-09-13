@@ -105,10 +105,10 @@ Within each file, there are 8rows of signals which represent: 1-motor vibration,
 * 链接：https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/  
 
 ## 13.第三届工业大数据创新竞赛
-![](./images/fig015.png)   
+![](./images/fig016.png)   
 
   需要参赛才能下载数据，数据使用需要获得版权方授权。多台压缩机，汽轮机的转子部件脱落数据。很实用。  
-比赛已经结束，无法下载。期待官方发布白皮书。获得授权可以分享数据。
+比赛已经结束，无法下载。期待官方发布白皮书。获得授权可以分享数据。   
    [工业大数据创新平台](http://industrial-bigdata.com/competition/competitionAction!showDetail2019.action?competition.competitionId=5)
 
 ## 14.加拿大-渥太华大学  
