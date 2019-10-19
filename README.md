@@ -148,3 +148,16 @@ Within each file, there are 8rows of signals which represent: 1-motor vibration,
  * Marins M A, Ribeiro F M L, Netto S L, et al. Improved similarity-based modeling for the classification of rotating-machine failures[J]. Journal of the Franklin Institute, 2018, 355(4): 1913-1930.[论文链接](https://www.sciencedirect.com/science/article/pii/S0016003217303678)
  * Saufi S R, bin Ahmad Z A, Leong M S, et al. Differential evolution optimization for resilient stacked sparse autoencoder and its applications on bearing fault diagnosis[J]. Measurement Science and Technology, 2018, 29(12): 125002. [论文链接](https://iopscience.iop.org/article/10.1088/1361-6501/aae5b2/meta)
 
+## 17.中国-武汉大学-转子数据
+* 数据链接：(https://data.mendeley.com/datasets/p9bsmj4xwg/1)
+* Liu, D., et al., Feature extraction of rotor fault based on EEMD and curve code. Measurement, 2019. 135: p. 712-724.[论文链接](https://www.sciencedirect.com/science/article/pii/S0263224118311540?via%3Dihub)
+* Description of this data
+'''
+These data are denoised signals processed by wavelet thresholding-based denoising.
+They are represented by a 2-dimensional matrix.
+Each row represents a vibration signal,and the first 45 rows belong to mormal rotor, the second contact-rubbing, the third unbalance and the final misalignment.
+Each column represents the length of data, 2048, or time, 1s.
+'''
+
+
+
