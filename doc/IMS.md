@@ -72,16 +72,8 @@ bearing 3.
 |  | Number of files | Number of channels | Endurance duration | Duration of  recorded signal | Announced damages at the end of the endurance  |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Dataset 1 | 2156 | 8 |  49680 min 34 days 12h | 36 min | Bearing 3: inner race Bearing 4: rolling element |
-Dataset 
-2
-984  4  9840 min
-6 days 20h
-16 min Bearing 1: outer race
-Dataset 
-3
-4448  4  44480 min
-31 days 10h
-74 min Bearing 3: outer race
+| Dataset 2 | 984  | 4 |  9840 min 6 days 20h | 16 min | Bearing 1: outer race |
+| Dataset 3 | 4448 | 4 | 44480 min 31 days 10h | 74 min | Bearing 3: outer race |
 
 
 
