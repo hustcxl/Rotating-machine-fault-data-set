@@ -29,11 +29,10 @@ time stamps (showed in file names) indicate resumption of the experiment in the 
 - No. of Files:  2,156
 - No. of Channels:   8 
 - Channel Arrangement:   Bearing 1 – Ch 1&2; Bearing 2 – Ch 3&4; 
-- Bearing 3 – Ch 5&6; Bearing 4 – Ch 7&8.
+                         Bearing 3 – Ch 5&6; Bearing 4 – Ch 7&8.
 - File Recording Interval:   Every 10 minutes (except the first 43 files were taken every 5 minutes)
 - File Format:   ASCII
-- Description:  At  the  end  of  the  test-to-failure  experiment,  inner  race  defect  occurred  in 
-- bearing 3 and roller element defect in bearing 4.
+- Description:  At  the  end  of  the  test-to-failure  experiment,  inner  race  defect  occurred  in bearing 3 and roller element defect in bearing 4.
 
 
 
