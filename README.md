@@ -5,7 +5,7 @@
 - [2.美国-凯斯西储大学轴承数据中心轴承数据集](#2美国-凯斯西储大学轴承数据中心cwru)
 - [3.美国-机械故障预防技术学会MFPT](#3美国-机械故障预防技术学会mfpt)
 - [4.德国-帕德伯恩大学Paderborn轴承数据集](#4德国-帕德伯恩大学paderborn)
-- [5.法国-FEMTO-ST轴承数据集](#5法国-femto-st轴承数据集)
+- [5.法国-FEMTO-ST轴承退化数据集](#5法国-femto-st轴承退化数据集)
 - [6.美国-辛辛那提大学IMS轴承退化数据集](#6美国-辛辛那提大学ims轴承退化数据)
 - [7.美国-康涅狄格大学University of Connecticut轴承数据集](#7美国-康涅狄格大学university-of-connecticut)
 - [8.中国-西安交通大学 轴承加速退化数据集XJTU-SY Bearing Datasets](#8xjtu-sy-bearing-datasets西安交通大学-轴承加速退化数据集)
@@ -50,7 +50,7 @@ Open rotating mechanical fault data set
 ![](./images/fig002.png)  
   由德国帕德博恩大学 Christian Lessmeier,Enge-Rosenblatt, Bayer, & Zimmer, 于2014年设计完成实验。
 
-## 5.[☆法国-FEMTO-ST轴承数据集](./doc/FEMTO_ST.md) 
+## 5.[☆法国-FEMTO-ST轴承退化数据集](./doc/FEMTO_ST.md) 
 ![](./images/fig003.png)
 ![](./images/fig004.png)
 
