@@ -1,13 +1,14 @@
-# FEMTO-ST 轴承数据集
+# FEMTO-ST 轴承退化数据集
 
 ## 1.简介 
-
+ 2012年IEEE PHM 比赛数据。 
 * FEMTO-ST网站：https://www.femto-st.fr/en
 * github链接：https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset  
 http://data-acoustics.com/measurements/bearing-faults/bearing-6/
 
 ## 2.实验简介
-
+	IEEE PHM 2012 Data Challenge was developed for the estimation of useful life of rotating deep groove ball bearings. Tests were carried out in 3 different loading conditions ranging from 1500-1800 rpm and 4-5kN bearing load in a experimental test setup which enabled accelerated degradation of the bearings. 6 sets of training data and 11 sets of test data with vibration and temperature signals provided. The aim of the challenge was to estimate the useful reaming life of the bearings in the 11 testing datasets.
+  
 
 ## 3.使用情况
 * Porotsky S, Bluvband Z. Remaining useful life estimation for systems with non-trendability behaviour: Prognostics & Health Management, 2012[C].
