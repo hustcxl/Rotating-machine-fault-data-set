@@ -77,13 +77,13 @@ bearing 3.
 
 ### Table 3. Characteristic frequencies of the test rig
 
-Characteristic frequencies |
- :--- | :---
-Shaft frequency |  33.3 Hz
-Ball Pass Frequency Outer race (BPFO)  | 236 Hz
-Ball Pass Frequency Inner race (BPFI)  | 297 Hz
-Ball Spin Frequency (BSF)   | 278Hz (2x139 Hz)
-Fundamental Train Frequency (FTF) | 15 Hz
+| Characteristic frequencies | |
+| :--- | :--- |
+| Shaft frequency |  33.3 Hz |
+| Ball Pass Frequency Outer race (BPFO)  | 236 Hz |
+| Ball Pass Frequency Inner race (BPFI)  | 297 Hz |
+| Ball Spin Frequency (BSF)   | 278Hz (2x139 Hz) |
+| Fundamental Train Frequency (FTF) | 15 Hz |
 
 
 ## 3.使用情况
