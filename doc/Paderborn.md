@@ -99,6 +99,16 @@ experiments.
 | 2 | 1500 | 0.1 | 1000 | N15_M01_F10 |
 | 3 | 1500 | 0.7 | 400 | N15_M07_F04 |
 
+### Table 7. Operating parameter of healthy (undamaged)  bearings during run-in period.
+
+| Bearing Code | Run-in Period [h] | Radial Load [N] | Speed [min^-1] |
+|  :---: |  :---: |  :---: |  :---: | 
+| K001 | >50 |  1000-3000 | 1500-2000 |
+| K002 | 19 | 3000 | 2900 |
+| K003 | 1 | 3000 | 3000 | 
+| K004 | 5 | 3000 | 3000 | 
+| K005 | 10 | 3000 | 3000 |
+| K006 | 16 | 3000 | 2900  |
 
 ## 3.使用情况
 * Bin Hasan M. Current based condition monitoring of electromechanical systems. Model-free drive system current monitoring: faults detection and diagnosis through statistical features extraction and support vector machines classification.[D]. University of Bradford, 2013.
