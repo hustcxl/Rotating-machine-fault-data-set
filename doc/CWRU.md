@@ -17,7 +17,7 @@ For the tests, faults ranging in diameter from 0.007 to 0.028 in. (0.18−0.71 m
 ### Table 2. Bearing details and fault frequencies.
 Fault frequencies (multiple of shaft speed)
  
-| Position on rig | Model | number | BPFI |	BPFO	| FTF | BSF |
+| Position on rig | Model number | BPFI |	BPFO	| FTF | BSF |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Drive end	| SKF 6205-2RS JEM |	5.415	| 3.585 |	0.3983	| 2.357 |
 | Fan end	| SKF 6203-2RS JEM	| 4.947	| 3.053	| 0.3816	| 1.994 |
