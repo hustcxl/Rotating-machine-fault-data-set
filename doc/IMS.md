@@ -27,8 +27,8 @@ time stamps (showed in file names) indicate resumption of the experiment in the 
 ### Table 1. Bearing characteristics
 - Rexnord ZA-2115 Characteristics 
 
-| Pitch diameter | 2.815 inch  71.5mm |    |
-| :--------------- | ：-------------------- | :--------- |
+| Pitch diameter | 2.815 inch  71.5mm |  a  |
+| :------ | ：----- | :---- |
 | Rolling element diameter |  0.331 inch | 8.4mm |
 | Number of rolling element per row | 16 | 16 |
 | Contact angle  | 15.17° | 15.17° |
