@@ -12,6 +12,15 @@ CWRU数据集是使用最为广泛的，文献较多。不一一举例。其中U
 
 
 ## 2.试验条件
+For the tests, faults ranging in diameter from 0.007 to 0.028 in. (0.18−0.71 mm) were seeded on the drive- and fan-end bearings (SKF deep-groove ball bearings: 6205-2RS JEM and 6203-2RS JEM, respectively) of the motor using electro-discharge machining (EDM). The faults were seeded on the rolling elements and on the inner and outer races, and each faulty bearing was reinstalled (separately) on the test rig, which was then run at constant speed for motor loads of 0−3 horsepower (approximate motor speeds of 1797−1720 rpm). Table 2 shows the relevant bearing details and fault frequencies. During each test, acceleration was measured in the vertical direction on the housing of the drive-end bearing (DE), and in some tests acceleration was also measured in the vertical direction on the fan-end bearing housing (FE) and on the motor supporting base plate (BA). The sample rates used were 12 kHz for some tests and 48 kHz for others, as explained further in Section 3.2. Further details regarding the test set-up can be found at the CWRU Bearing Data Center website.
+
+### Table 2. Bearing details and fault frequencies.
+Fault frequencies (multiple of shaft speed)
+ 
+| Position on rig | Model | number | BPFI |	BPFO	| FTF | BSF |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Drive end	| SKF 6205-2RS JEM |	5.415	| 3.585 |	0.3983	| 2.357 |
+| Fan end	| SKF 6203-2RS JEM	| 4.947	| 3.053	| 0.3816	| 1.994 |
 
 ## 3.数据使用情况
 选了一些发表在优秀刊物上比较有代表性的论文。当前尚且按照入手的角度不同从基准综述研究，信号处理与特征增强以及分类与模式识别三个方向分类。但是很多论文实际上是相互交叉的。
