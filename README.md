@@ -56,7 +56,7 @@ Open rotating mechanical fault data set
 
  由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。
 
-## 6.[☆美国-辛辛那提大学IMS](./doc/IMS.md)
+## 6.[☆美国-辛辛那提大学IMS轴承退化数据](./doc/IMS.md)
 ![](./images/fig005.png)  
 由美国辛辛那提大学李杰教授团队分享。
 The  IMS bearing dataset has  been  collected  on  an  endurance  test  rig  of  the University  of  Cincinnati and  relased  in  2014.
