@@ -8,6 +8,36 @@
 
 ## 2.实验介绍
 
+An  AC  motor,  coupled  by  a  rub  belt,  keeps  the  rotation  speed  constant.  The  four 
+bearings are  in  the  same  shaft  and  are  forced lubricated  by  a  circulation  system  that 
+regulates  the  flow  and  the  temperature.  It  is  announced on  the  provided  “Readme 
+Document  for  IMS  Bearing  Data”  in  the  downloaded  file, that  the  test was  stopped 
+when the accumulation of debris on a magnetic plug exceeded a certain level indicating 
+the possibility of an impending failure.
+The four bearings are all of the same type. There are double range pillow blocks 
+rolling elements bearing. 
+
+Three (3) data  sets  are  included in the data  packet  (IMS-Rexnord Bearing Data.zip). Each data  set 
+describes  a  test-to-failure  experiment.  Each  data  set  consists  of  individual  files  that  are  1-second 
+vibration  signal  snapshots  recorded  at  specific  intervals.  Each  file  consists  of  20,480  points  with  the 
+sampling rate set at 20 kHz.  The file name indicates when the data was collected. Each record (row) in 
+the data file is a data point.  Data collection was facilitated by NI DAQ Card 6062E.  Larger intervals of 
+time stamps (showed in file names) indicate resumption of the experiment in the next working day.
+
+### Set No. 1:
+- Recording Duration:   October 22, 2003 12:06:24 to November 25, 2003 23:39:56
+- No. of Files:  2,156
+- No. of Channels:   8 
+- Channel Arrangement:   Bearing 1 – Ch 1&2; Bearing 2 – Ch 3&4; 
+- Bearing 3 – Ch 5&6; Bearing 4 – Ch 7&8.
+- File Recording Interval:   Every 10 minutes (except the first 43 files were taken every 5 minutes)
+- File Format:   ASCII
+- Description:  At  the  end  of  the  test-to-failure  experiment,  inner  race  defect  occurred  in 
+- bearing 3 and roller element defect in bearing 4.
+
+
+
+
 ## 3.使用情况
 
 * Gousseau W, Antoni J, Girardin F, et al. Analysis of the Rolling Element Bearing data set of the Center for Intelligent Maintenance Systems of the University of Cincinnati: CM2016, 2016[C].
