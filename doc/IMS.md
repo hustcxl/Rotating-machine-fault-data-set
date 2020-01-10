@@ -34,6 +34,26 @@ time stamps (showed in file names) indicate resumption of the experiment in the 
 - File Format:   ASCII
 - Description:  At  the  end  of  the  test-to-failure  experiment,  inner  race  defect  occurred  in bearing 3 and roller element defect in bearing 4.
 
+### Set No. 2:
+- Recording Duration:   February 12, 2004 10:32:39 to February 19, 2004 06:22:39
+- No. of Files:  984
+- No. of Channels:   4
+- Channel Arrangement:   Bearing 1 – Ch 1; Bearing2 – Ch 2; Bearing3 – Ch3; Bearing 4 – Ch 4.
+- File Recording Interval:   Every 10 minutes
+- File Format:   ASCII
+- Description:  At  the  end  of  the  test-to-failure  experiment,  outer  race  failure  occurred  in 
+bearing 1.
+
+### Set No. 3
+- Recording Duration:   March 4, 2004 09:27:46 to April 4, 2004 19:01:57
+- No. of Files:  4,448
+- No. of Channels:   4
+- Channel Arrangement:   Bearing1 – Ch 1; Bearing2 – Ch 2; Bearing3 – Ch3; Bearing4 – Ch4;
+- File Recording Interval:   Every 10 minutes
+- File Format:   ASCII
+- Description:  At  the  end  of  the  test-to-failure  experiment,  outer  race  failure  occurred  in 
+bearing 3.
+
 
 
 
