@@ -7,7 +7,7 @@
 http://data-acoustics.com/measurements/bearing-faults/bearing-6/
 
 ## 2.实验简介
-	IEEE PHM 2012 Data Challenge was developed for the estimation of useful life of rotating deep groove ball bearings. Tests were carried out in 3 different loading conditions ranging from 1500-1800 rpm and 4-5kN bearing load in a experimental test setup which enabled accelerated degradation of the bearings. 6 sets of training data and 11 sets of test data with vibration and temperature signals provided. The aim of the challenge was to estimate the useful reaming life of the bearings in the 11 testing datasets.
+IEEE PHM 2012 Data Challenge was developed for the estimation of useful life of rotating deep groove ball bearings. Tests were carried out in 3 different loading conditions ranging from 1500-1800 rpm and 4-5kN bearing load in a experimental test setup which enabled accelerated degradation of the bearings. 6 sets of training data and 11 sets of test data with vibration and temperature signals provided. The aim of the challenge was to estimate the useful reaming life of the bearings in the 11 testing datasets.
   
 
 ## 3.使用情况
