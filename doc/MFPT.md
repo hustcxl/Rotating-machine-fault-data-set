@@ -9,7 +9,25 @@ NRG Systems总工程师Eric Bechhoefer博士代表MFPT组装和准备数据。
 使用该数据集的相比于CWRU少一些。于2012年更新。
 
 ## 2.试验说明
+The test rig was equipped with a NICE bearing with the following parameters:
 
+- Roller diameter: rd = 0.235
+- Pitch diameter: pd = 1.245
+- Number of elements: ne = 8
+- Contact angle: ca = 0
+
+The data set1,2 comprises the following, and can be downloaded as a zip file package he:Fault Data Sets
+
+- 3 baseline conditions: 270 lbs of load, input shaft rate of 25 Hz, sample rate of 97,656 sps, for 6 seconds
+- 3 outer race fault conditions: 270 lbs of load, input shaft rate of 25 Hz, sample rate of 97,656 sps for 6 seconds
+- 7 outer race fault conditions: 25, 50, 100, 150, 200, 250 and 300 lbs of load, input shaft rate 25 Hz, sample rate of 48,828 sps for 3 seconds (bearing resonance was found be less than 20 kHz)
+- 7 inner race fault conditions: 0, 50, 100, 150, 200, 250 and 300 lbs of load, input shaft rate of 25 Hz, sample rate of 48,828 sps for 3 seconds
+- 5 data analysis (.m) files that relate to Eric Bechhoefer’s introductory paper referred to below
+- Three2 real world example files are also included: an intermediate shaft bearing from a wind turbine (data structure holds bearing rates and shaft rate), an oil pump shaft bearing from a wind turbine, and a real world planet bearing fault).
+
+- Note1: The data is stored in a Matlab® double-precision, binary format *.mat file. The data structure holds the load, shaft rate, sample rate and a vector of “g” data.
+
+- Note2: The initial data uploaded to the website in October 2012 included errors, in that the sample rate was defined as 50 Hz, when in fact it was 25 Hz. New data sets correcting this error were uploaded on 27 Feb 13. In addition, a third real world example was added]
 ## 3.使用情况
 * Lee D, Siu V, Cruz R, et al. Convolutional neural net and bearing fault analysis[C]//Proceedings of the International Conference on Data Mining (DMIN). The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp), 2016: 194.[论文链接](https://pdfs.semanticscholar.org/6e45/f39b1e50cfd10deaabd1d786fac827c3543a.pdf)
 
