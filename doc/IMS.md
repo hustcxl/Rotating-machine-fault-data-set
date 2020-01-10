@@ -75,6 +75,15 @@ bearing 3.
 | Dataset 2 | 984  | 4 |  9840 min 6 days 20h | 16 min | Bearing 1: outer race |
 | Dataset 3 | 4448 | 4 | 44480 min 31 days 10h | 74 min | Bearing 3: outer race |
 
+### Table 3. Characteristic frequencies of the test rig
+
+Characteristic frequencies |
+ :--- | :---
+Shaft frequency |  33.3 Hz
+Ball Pass Frequency Outer race (BPFO)  | 236 Hz
+Ball Pass Frequency Inner race (BPFI)  | 297 Hz
+Ball Spin Frequency (BSF)   | 278Hz (2x139 Hz)
+Fundamental Train Frequency (FTF) | 15 Hz
 
 
 ## 3.使用情况
