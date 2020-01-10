@@ -6,7 +6,7 @@
 - [3.美国-机械故障预防技术学会MFPT](#3美国-机械故障预防技术学会mfpt)
 - [4.德国-帕德伯恩大学Paderborn轴承数据集](#4德国-帕德伯恩大学paderborn)
 - [5.法国-FEMTO-ST轴承数据集](#5法国-femto-st轴承数据集)
-- [6.美国-辛辛那提大学IMS轴承数据集](#6美国-辛辛那提大学ims)
+- [6.美国-辛辛那提大学IMS轴承退化数据集](#6美国-辛辛那提大学ims轴承退化数据)
 - [7.美国-康涅狄格大学University of Connecticut轴承数据集](#7美国-康涅狄格大学university-of-connecticut)
 - [8.中国-西安交通大学 轴承加速退化数据集XJTU-SY Bearing Datasets](#8xjtu-sy-bearing-datasets西安交通大学-轴承加速退化数据集)
 - [9.中国-东南大学齿轮箱数据集](#9东南大学齿轮箱数据集)
