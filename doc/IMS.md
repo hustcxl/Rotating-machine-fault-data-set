@@ -24,6 +24,15 @@ sampling rate set at 20 kHz.  The file name indicates when the data was collecte
 the data file is a data point.  Data collection was facilitated by NI DAQ Card 6062E.  Larger intervals of 
 time stamps (showed in file names) indicate resumption of the experiment in the next working day.
 
+### Table 1. Bearing characteristics
+- Rexnord ZA-2115 Characteristics 
+Pitch diameter | 2.815 inch  71.5mm|
+---------------|--------------------|---------
+Rolling element diameter|  0.331 inch | 8.4mm
+Number of rolling element per row | 16 | 16
+Contact angle  | 15.17° | 15.17°
+Static load | 6000 lbs | 26690 N
+
 ### Set No. 1:
 - Recording Duration:   October 22, 2003 12:06:24 to November 25, 2003 23:39:56
 - No. of Files:  2,156
