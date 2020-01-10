@@ -8,7 +8,7 @@
 - [5.法国-FEMTO-ST轴承退化数据集](#5法国-femto-st轴承退化数据集)
 - [6.美国-辛辛那提大学IMS轴承退化数据集](#6美国-辛辛那提大学ims轴承退化数据)
 - [7.美国-康涅狄格大学University of Connecticut齿轮数据集](#7美国-康涅狄格大学university-of-connecticut)
-- [8.中国-西安交通大学 轴承加速退化数据集XJTU-SY Bearing Datasets](#8xjtu-sy-bearing-datasets西安交通大学-轴承加速退化数据集)
+- [8.中国-西安交通大学 轴承加速退化数据集XJTU-SY Bearing Datasets](#8中国-西安交通大学-轴承数据集xjtu-sy-bearing-datasets)
 - [9.中国-东南大学齿轮箱数据集](#9东南大学齿轮箱数据集)
 - [10.Acoustics and Vibration Database（振动与声学数据库）](#10acoustics-and-vibration-database振动与声学数据库)
 - [11.机械设备故障诊断数据集及技术资料大全](#11机械设备故障诊断数据集及技术资料大全)
