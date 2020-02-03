@@ -3,7 +3,7 @@
 ## 1.简介 
  2012年IEEE PHM 比赛数据。 
 * FEMTO-ST网站：https://www.femto-st.fr/en
-* github链接：https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset  
+* github链接：https://github.com/Lucky-Loek/ieee-phm-2012-data-challenge-dataset
 http://data-acoustics.com/measurements/bearing-faults/bearing-6/
 
 ## 2.实验简介
