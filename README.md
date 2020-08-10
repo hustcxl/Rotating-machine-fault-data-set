@@ -19,6 +19,7 @@
 - [16.巴西-里约热内卢联邦大学 MAFAULDA轴承数据集](#16巴西-里约热内卢联邦大学-mafaulda)
 - [17.中国-武汉大学-转子数据](#17中国-武汉大学-转子数据)
 - [18.中国-电机振动数据(七月在线竞赛)](#18中国-电机振动数据七月在线竞赛)
+- [19-中国-轴承数据集(DC竞赛)](#19-中国-轴承数据集dc竞赛)
 
 <!-- /TOC -->
 
@@ -191,6 +192,7 @@ Each column represents the length of data, 2048, or time, 1s.
 
 ## 19. 中国-轴承数据集（DC竞赛）
 * 数据链接：(https://www.dcjingsai.com/v2/cmptDetail.html?id=248)
+![](./images/fig019.jpeg)
 
 [竞赛数据使用及demo](https://github.com/xiaosongshine/bearing_detection_by_conv1d)
 
