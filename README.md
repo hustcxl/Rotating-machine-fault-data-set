@@ -130,7 +130,7 @@ Within each file, there are 8rows of signals which represent: 1-motor vibration,
 
   需要参赛才能下载数据，数据使用需要获得版权方授权。多台压缩机，汽轮机的转子部件脱落数据。很实用。  
 比赛已经结束，无法下载。期待官方发布白皮书。获得授权可以分享数据。   
-   [工业大数据创新平台](http://industrial-bigdata.com/competition/competitionAction!showDetail2019.action?competition.competitionId=5)
+   [工业大数据创新平台](http://www.industrial-bigdata.com/Challenge/title?competitionId=VLCSG1DRQB2I02HLQSOSKYH9AS646J8X)
 
 ## 14.加拿大-渥太华大学  
  ![](./images/fig009.png)
@@ -179,6 +179,14 @@ They are represented by a 2-dimensional matrix.
 Each row represents a vibration signal,and the first 45 rows belong to mormal rotor, the second contact-rubbing, the third unbalance and the final misalignment.
 Each column represents the length of data, 2048, or time, 1s.
 '''
+
+## 18.中国-电机振动数据（七月在线竞赛）
+* 数据链接：(http://jingsai.julyedu.com/v/25820185621432447/detail.jhtml)
+在电机生产线上普遍采用人工听音的方法分辨良、次品，不仅成本高，而且重复、单调的听音工作极易引起人员疲劳，容易出现误判，若个别不良品混入整批成品中，会给工厂带来严重经济损失，甚至严重影响产品声誉。
+
+本次大赛要求参赛者基于加速度传感器采集的振动信号，利用机器学习、深度学习等人工智能技术，设计智能检验的算法，要求算法对故障电机不能有漏识别，在召回100%的情况下，尽量提高预测准确率，以达到替代人工质检的目的。
+
+
 
 [:top:](#Rotating-machine-fault-data-set)
 
