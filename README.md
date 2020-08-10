@@ -19,7 +19,8 @@
 - [16.巴西-里约热内卢联邦大学 MAFAULDA轴承数据集](#16巴西-里约热内卢联邦大学-mafaulda)
 - [17.中国-武汉大学-转子数据](#17中国-武汉大学-转子数据)
 - [18.中国-电机振动数据(七月在线竞赛)](#18中国-电机振动数据七月在线竞赛)
-- [19-中国-轴承数据集(DC竞赛)](#19-中国-轴承数据集dc竞赛)
+- [19.中国-轴承数据集(DC竞赛)](#19-中国-轴承数据集dc竞赛)
+- [20.中国-上海交通大学轴承数据集](#20-中国-上海交通大学轴承数据集)
 
 <!-- /TOC -->
 
@@ -202,9 +203,9 @@ Each column represents the length of data, 2048, or time, 1s.
 
 * 相关论文
 
-(1)Zhu LM, Ding H, Zhu XY. Synchronous Averaging of Time-frequency Distribution with Application to Machine Condition Monitoring. Trans of the ASME, Journal of Vibration and Acoustics, 2007, 129(4): 441-447. 
+(1)Zhu LM, Ding H, Zhu XY. Synchronous Averaging of Time-frequency Distribution with Application to Machine Condition Monitoring. Trans of the ASME, Journal of Vibration and Acoustics, 2007, 129(4): 441-447. [link](https://asmedigitalcollection.asme.org/vibrationacoustics/article/129/4/441/446861/Synchronous-Averaging-of-Time-Frequency)
 
-(2)Zhu LM, Ding H, Zhu XY. Extraction of Periodic Signal without External Reference by Time Domain Average Scanning. IEEE Trans. On Industrial Electronics, 2008, 55(2): 918-927. 
+(2)Zhu LM, Ding H, Zhu XY. Extraction of Periodic Signal without External Reference by Time Domain Average Scanning. IEEE Trans. On Industrial Electronics, 2008, 55(2): 918-927.[link](https://ieeexplore.ieee.org/document/4444615) 
 
 [:top:](#Rotating-machine-fault-data-set)
 
