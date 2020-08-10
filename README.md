@@ -182,7 +182,7 @@ Each column represents the length of data, 2048, or time, 1s.
 '''
 
 ## 18.中国-电机振动数据（七月在线竞赛）
-* 数据链接：(http://jingsai.julyedu.com/v/25820185621432447/detail.jhtml)
+* 数据链接：(./images/fig018.jpg)
 
 ![](http://zhongzhi.xuelangyun.com/competition/challenge/2019510?from=julyedu)
 在电机生产线上普遍采用人工听音的方法分辨良、次品，不仅成本高，而且重复、单调的听音工作极易引起人员疲劳，容易出现误判，若个别不良品混入整批成品中，会给工厂带来严重经济损失，甚至严重影响产品声誉。
