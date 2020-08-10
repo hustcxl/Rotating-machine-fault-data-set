@@ -189,6 +189,11 @@ Each column represents the length of data, 2048, or time, 1s.
 
 本次大赛要求参赛者基于加速度传感器采集的振动信号，利用机器学习、深度学习等人工智能技术，设计智能检验的算法，要求算法对故障电机不能有漏识别，在召回100%的情况下，尽量提高预测准确率，以达到替代人工质检的目的。
 
+## 19. 中国-轴承数据集（DC竞赛）
+* 数据链接：(https://www.dcjingsai.com/v2/cmptDetail.html?id=248)
+
+[竞赛数据使用及demo](https://github.com/xiaosongshine/bearing_detection_by_conv1d)
+
 
 
 [:top:](#Rotating-machine-fault-data-set)
