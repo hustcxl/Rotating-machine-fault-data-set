@@ -182,9 +182,9 @@ Each column represents the length of data, 2048, or time, 1s.
 '''
 
 ## 18.中国-电机振动数据（七月在线竞赛）
-* 数据链接：(./images/fig018.jpg)
+* 数据链接：(http://jingsai.julyedu.com/v/25820185621432447/detail.jhtml)
 
-![](http://zhongzhi.xuelangyun.com/competition/challenge/2019510?from=julyedu)
+![](./images/fig018.jpg)
 在电机生产线上普遍采用人工听音的方法分辨良、次品，不仅成本高，而且重复、单调的听音工作极易引起人员疲劳，容易出现误判，若个别不良品混入整批成品中，会给工厂带来严重经济损失，甚至严重影响产品声誉。
 
 本次大赛要求参赛者基于加速度传感器采集的振动信号，利用机器学习、深度学习等人工智能技术，设计智能检验的算法，要求算法对故障电机不能有漏识别，在召回100%的情况下，尽量提高预测准确率，以达到替代人工质检的目的。
