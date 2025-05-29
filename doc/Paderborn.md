@@ -1,7 +1,7 @@
 # 德国 帕德博恩大学 Bearing DataCenter
 
 ## 1.简介
-数据下载链接：https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/
+数据下载链接：[https://groups.uni-paderborn.de/kat/BearingDataCenter/](https://groups.uni-paderborn.de/kat/BearingDataCenter/)
 研究所和KAt-DataCenter链接的名称：Christian Lessmeier等，KAt-DataCenter：mb.uni-paderborn.de/kat/datacenter，
 设计和驱动技术主席，帕德博恩大学。如需商业用途，请联系作者。
 
